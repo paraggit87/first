@@ -1,0 +1,5 @@
+The “-t” option in checkout stands for “track” and it is used to create your branch and setting up the upstream branch automatically to the remote branch.
+
+As an example, let’s say that you have a branch named “remote-branch” on the “origin” remote.
+
+In order to checkout the remote branch, you will need to execute the checkout command and specify the information specified above.
