@@ -1,0 +1,21 @@
+insert into alien values (101, 'Parag101', 'Java');
+insert into alien values (102, 'Parag102', 'Java');
+insert into alien values (103, 'Parag103', 'AI');
+insert into alien values (104, 'Parag104', 'Java');
+insert into alien values (105, 'Parag105', 'Java');
+insert into alien values (106, 'Parag106', 'Java');
+insert into alien values (107, 'Parag107', 'AI');
+insert into alien values (108, 'Parag108', 'Java');
+insert into alien values (109, 'Parag109', 'Java');
+insert into alien values (110, 'Parag110', 'AI');
+insert into alien values (111, 'Parag111', 'Java');
+insert into alien values (112, 'Parag112', 'Java');
+insert into alien values (113, 'Parag113', 'Java');
+insert into alien values (114, 'Parag114', 'Java');
+insert into alien values (115, 'Parag115', 'Java');
+insert into alien values (116, 'Parag116', 'Spring');
+insert into alien values (117, 'Parag117', 'Spring');
+insert into alien values (118, 'Parag118', 'Java');
+insert into alien values (119, 'Parag119', 'Java');
+insert into alien values (120, 'Parag120', 'Java');
+
